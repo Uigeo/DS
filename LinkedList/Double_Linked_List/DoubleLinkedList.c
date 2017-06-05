@@ -1,7 +1,4 @@
 
-#include <string.h>
-
-typedef struct _Node{
 #include "DoubleLinkedList.h"
 
 D_LinkedList* createList(){

@@ -58,4 +58,4 @@ void printForward(D_LinkedList* list);
 
 void printReverse(D_LinkedList* list);
 
-#endif /* R_LinkedList_h */
+#endif /* Double_LinkedList_h */
